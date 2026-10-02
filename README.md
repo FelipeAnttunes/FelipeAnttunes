@@ -102,20 +102,12 @@ Sistema de monitoramento geoespacial em tempo real, correlacionando alertas ambi
 
 ![Visitas](https://komarev.com/ghpvc/?username=FelipeAnttunes&color=2E75B6&style=for-the-badge&label=Visitas+ao+perfil)
 
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeAnttunes/FelipeAnttunes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeAnttunes/FelipeAnttunes/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/FelipeAnttunes/FelipeAnttunes/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
-
-
-<!--
-**FelipeAnttunes/FelipeAnttunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
