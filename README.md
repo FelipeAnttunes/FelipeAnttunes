@@ -102,7 +102,7 @@ Sistema de monitoramento geoespacial em tempo real, correlacionando alertas ambi
 
 ![Visitas](https://komarev.com/ghpvc/?username=FelipeAnttunes&color=2E75B6&style=for-the-badge&label=Visitas+ao+perfil)
 
-### 🐍 Contributions
+### 🐍 Debugando o tempo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeAnttunes/FelipeAnttunes/output/github-contribution-grid-snake-dark.svg">
