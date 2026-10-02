@@ -100,8 +100,6 @@ Sistema de monitoramento geoespacial em tempo real, correlacionando alertas ambi
 
 ### 💡 *"Dados sem contexto são apenas números. Dados com análise são decisões."*
 
-![Visitas](https://komarev.com/ghpvc/?username=FelipeAnttunes&color=2E75B6&style=for-the-badge&label=Visitas+ao+perfil)
-
 ### 🐍 Debugando o tempo
 
 <picture>
@@ -109,5 +107,7 @@ Sistema de monitoramento geoespacial em tempo real, correlacionando alertas ambi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeAnttunes/FelipeAnttunes/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/FelipeAnttunes/FelipeAnttunes/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Visitas](https://komarev.com/ghpvc/?username=FelipeAnttunes&color=2E75B6&style=for-the-badge&label=Visitas+ao+perfil)
 
 </div>
