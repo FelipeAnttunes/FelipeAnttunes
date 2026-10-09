@@ -68,8 +68,9 @@ Sistema de monitoramento geoespacial em tempo real, correlacionando alertas ambi
 
 | Curso | Instituição | Período |
 |---|---|---|
-| 🎓 Tecnólogo em Big Data e Inteligência Analítica | IBMR | 2024 – 2027 |
-| 🤖 Residência em IA Generativa *(em andamento)* | Serratec + PUC-Rio | 2025 |
+| 🎓 Tecnólogo em Big Data e Inteligência Analítica | IBMR | 2024 – 2028 |
+| 🤖 Curso em IA Generativa | Serratec + PUC-Rio | 2026 |
+| 🤖 Residência em IA Generativa & RAG *(em andamento)* | Serratec + PUC-Rio | 2026 |
 | 🔗 Residência em Blockchain *(concluída)* | Serratec + PUC-Rio | 2025 |
 | 💻 Programa TIC Brisa | Serratec / STEM | 2025 |
 | 🌐 Desenvolvedor Web Full Stack | Serratec | 2021 – 2022 |
